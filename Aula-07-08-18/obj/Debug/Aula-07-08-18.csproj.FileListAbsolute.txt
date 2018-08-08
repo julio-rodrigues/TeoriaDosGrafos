@@ -1,0 +1,13 @@
+C:\Users\1814020024\Desktop\Aula-07-08-18\Aula-07-08-18\bin\Debug\Aula-07-08-18.exe.config
+C:\Users\1814020024\Desktop\Aula-07-08-18\Aula-07-08-18\bin\Debug\Aula-07-08-18.exe
+C:\Users\1814020024\Desktop\Aula-07-08-18\Aula-07-08-18\bin\Debug\Aula-07-08-18.pdb
+C:\Users\1814020024\Desktop\Aula-07-08-18\Aula-07-08-18\obj\Debug\Aula-07-08-18.csprojResolveAssemblyReference.cache
+C:\Users\1814020024\Desktop\Aula-07-08-18\Aula-07-08-18\obj\Debug\Aula-07-08-18.exe
+C:\Users\1814020024\Desktop\Aula-07-08-18\Aula-07-08-18\obj\Debug\Aula-07-08-18.pdb
+C:\Users\jrodriguesc\Desktop\Aula-07-08-18\Aula-07-08-18\bin\Debug\Aula-07-08-18.exe.config
+C:\Users\jrodriguesc\Desktop\Aula-07-08-18\Aula-07-08-18\bin\Debug\Aula-07-08-18.exe
+C:\Users\jrodriguesc\Desktop\Aula-07-08-18\Aula-07-08-18\bin\Debug\Aula-07-08-18.pdb
+C:\Users\jrodriguesc\Desktop\Aula-07-08-18\Aula-07-08-18\obj\Debug\Aula-07-08-18.csprojAssemblyReference.cache
+C:\Users\jrodriguesc\Desktop\Aula-07-08-18\Aula-07-08-18\obj\Debug\Aula-07-08-18.csproj.CoreCompileInputs.cache
+C:\Users\jrodriguesc\Desktop\Aula-07-08-18\Aula-07-08-18\obj\Debug\Aula-07-08-18.exe
+C:\Users\jrodriguesc\Desktop\Aula-07-08-18\Aula-07-08-18\obj\Debug\Aula-07-08-18.pdb

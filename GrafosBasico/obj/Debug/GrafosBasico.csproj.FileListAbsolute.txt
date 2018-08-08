@@ -1,0 +1,14 @@
+C:\Users\jrodriguesc\Documents\GrafosBasico\GrafosBasico\bin\Debug\GrafosBasico.exe.config
+C:\Users\jrodriguesc\Documents\GrafosBasico\GrafosBasico\bin\Debug\GrafosBasico.exe
+C:\Users\jrodriguesc\Documents\GrafosBasico\GrafosBasico\bin\Debug\GrafosBasico.pdb
+C:\Users\jrodriguesc\Documents\GrafosBasico\GrafosBasico\obj\Debug\GrafosBasico.csprojAssemblyReference.cache
+C:\Users\jrodriguesc\Documents\GrafosBasico\GrafosBasico\obj\Debug\GrafosBasico.csproj.CoreCompileInputs.cache
+C:\Users\jrodriguesc\Documents\GrafosBasico\GrafosBasico\obj\Debug\GrafosBasico.exe
+C:\Users\jrodriguesc\Documents\GrafosBasico\GrafosBasico\obj\Debug\GrafosBasico.pdb
+C:\Users\jrodriguesc\Desktop\TeoriaDosGrafos-master\GrafosBasico\bin\Debug\GrafosBasico.exe.config
+C:\Users\jrodriguesc\Desktop\TeoriaDosGrafos-master\GrafosBasico\bin\Debug\GrafosBasico.exe
+C:\Users\jrodriguesc\Desktop\TeoriaDosGrafos-master\GrafosBasico\bin\Debug\GrafosBasico.pdb
+C:\Users\jrodriguesc\Desktop\TeoriaDosGrafos-master\GrafosBasico\obj\Debug\GrafosBasico.csprojAssemblyReference.cache
+C:\Users\jrodriguesc\Desktop\TeoriaDosGrafos-master\GrafosBasico\obj\Debug\GrafosBasico.csproj.CoreCompileInputs.cache
+C:\Users\jrodriguesc\Desktop\TeoriaDosGrafos-master\GrafosBasico\obj\Debug\GrafosBasico.exe
+C:\Users\jrodriguesc\Desktop\TeoriaDosGrafos-master\GrafosBasico\obj\Debug\GrafosBasico.pdb
