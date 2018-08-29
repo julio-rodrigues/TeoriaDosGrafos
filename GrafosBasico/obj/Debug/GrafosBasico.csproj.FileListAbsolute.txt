@@ -12,3 +12,6 @@ C:\Users\jrodriguesc\Desktop\TeoriaDosGrafos-master\GrafosBasico\obj\Debug\Grafo
 C:\Users\jrodriguesc\Desktop\TeoriaDosGrafos-master\GrafosBasico\obj\Debug\GrafosBasico.csproj.CoreCompileInputs.cache
 C:\Users\jrodriguesc\Desktop\TeoriaDosGrafos-master\GrafosBasico\obj\Debug\GrafosBasico.exe
 C:\Users\jrodriguesc\Desktop\TeoriaDosGrafos-master\GrafosBasico\obj\Debug\GrafosBasico.pdb
+E:\TeoriaDosGrafos\GrafosBasico\bin\Debug\GrafosBasico.exe.config
+E:\TeoriaDosGrafos\GrafosBasico\obj\Debug\GrafosBasico.exe
+E:\TeoriaDosGrafos\GrafosBasico\obj\Debug\GrafosBasico.pdb

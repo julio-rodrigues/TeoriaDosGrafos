@@ -5,3 +5,17 @@ D:\TeoriaDosGrafos\Aula-14-08-2018\obj\Debug\Aula-14-08-18.csprojAssemblyReferen
 D:\TeoriaDosGrafos\Aula-14-08-2018\obj\Debug\Aula-14-08-18.csproj.CoreCompileInputs.cache
 D:\TeoriaDosGrafos\Aula-14-08-2018\obj\Debug\Aula-14-08-2018.exe
 D:\TeoriaDosGrafos\Aula-14-08-2018\obj\Debug\Aula-14-08-2018.pdb
+D:\TeoriaDosGrafos\Aula-14-08-18\bin\Debug\Aula-14-08-2018.exe.config
+D:\TeoriaDosGrafos\Aula-14-08-18\bin\Debug\Aula-14-08-2018.exe
+D:\TeoriaDosGrafos\Aula-14-08-18\bin\Debug\Aula-14-08-2018.pdb
+D:\TeoriaDosGrafos\Aula-14-08-18\obj\Debug\Aula-14-08-18.csprojAssemblyReference.cache
+D:\TeoriaDosGrafos\Aula-14-08-18\obj\Debug\Aula-14-08-18.csproj.CoreCompileInputs.cache
+D:\TeoriaDosGrafos\Aula-14-08-18\obj\Debug\Aula-14-08-2018.exe
+D:\TeoriaDosGrafos\Aula-14-08-18\obj\Debug\Aula-14-08-2018.pdb
+E:\TeoriaDosGrafos\Aula-14-08-18\bin\Debug\Aula-14-08-2018.exe.config
+E:\TeoriaDosGrafos\Aula-14-08-18\bin\Debug\Aula-14-08-2018.exe
+E:\TeoriaDosGrafos\Aula-14-08-18\bin\Debug\Aula-14-08-2018.pdb
+E:\TeoriaDosGrafos\Aula-14-08-18\obj\Debug\Aula-14-08-2018.exe
+E:\TeoriaDosGrafos\Aula-14-08-18\obj\Debug\Aula-14-08-2018.pdb
+E:\TeoriaDosGrafos\Aula-14-08-18\obj\Debug\Aula-14-08-18.csprojAssemblyReference.cache
+E:\TeoriaDosGrafos\Aula-14-08-18\obj\Debug\Aula-14-08-18.csproj.CoreCompileInputs.cache
