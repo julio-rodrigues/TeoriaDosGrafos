@@ -1,6 +1,0 @@
-C:\Users\1512082111\Desktop\TeoriaDosGrafos\Aula-14-08-2018\bin\Debug\Aula-14-08-2018.exe.config
-C:\Users\1512082111\Desktop\TeoriaDosGrafos\Aula-14-08-2018\bin\Debug\Aula-14-08-2018.exe
-C:\Users\1512082111\Desktop\TeoriaDosGrafos\Aula-14-08-2018\bin\Debug\Aula-14-08-2018.pdb
-C:\Users\1512082111\Desktop\TeoriaDosGrafos\Aula-14-08-2018\obj\Debug\Aula-14-08-2018.csprojResolveAssemblyReference.cache
-C:\Users\1512082111\Desktop\TeoriaDosGrafos\Aula-14-08-2018\obj\Debug\Aula-14-08-2018.exe
-C:\Users\1512082111\Desktop\TeoriaDosGrafos\Aula-14-08-2018\obj\Debug\Aula-14-08-2018.pdb
