@@ -1,0 +1,6 @@
+D:\Grafos\Grafos\GraphFramework\bin\Debug\GraphFramework.dll
+D:\Grafos\Grafos\GraphFramework\bin\Debug\GraphFramework.pdb
+D:\Grafos\Grafos\GraphFramework\obj\Debug\GraphFramework.csprojAssemblyReference.cache
+D:\Grafos\Grafos\GraphFramework\obj\Debug\GraphFramework.csproj.CoreCompileInputs.cache
+D:\Grafos\Grafos\GraphFramework\obj\Debug\GraphFramework.dll
+D:\Grafos\Grafos\GraphFramework\obj\Debug\GraphFramework.pdb
