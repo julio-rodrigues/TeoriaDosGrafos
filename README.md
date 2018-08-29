@@ -19,3 +19,11 @@ queueGraph.Enfileirar(graph.GetNodeById(0));
 queueGraph.Enfileirar(AQUI O ID DO VERTICE PARA ENFILEIRAR); 
  E essa função para desenfileirar 
  queueGraph.Desenfileirar(); //ele já mostrar na posição correta os vertices desenfileirados. 
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
