@@ -1,0 +1,9 @@
+E:\FinderPLUS\FinderPLUS\bin\Debug\FinderPLUS.exe.config
+E:\FinderPLUS\FinderPLUS\bin\Debug\FinderPLUS.exe
+E:\FinderPLUS\FinderPLUS\bin\Debug\FinderPLUS.pdb
+E:\FinderPLUS\FinderPLUS\obj\Debug\FinderPLUS.Form1.resources
+E:\FinderPLUS\FinderPLUS\obj\Debug\FinderPLUS.Properties.Resources.resources
+E:\FinderPLUS\FinderPLUS\obj\Debug\FinderPLUS.csproj.GenerateResource.cache
+E:\FinderPLUS\FinderPLUS\obj\Debug\FinderPLUS.exe
+E:\FinderPLUS\FinderPLUS\obj\Debug\FinderPLUS.pdb
+E:\FinderPLUS\FinderPLUS\obj\Debug\FinderPLUS.csprojResolveAssemblyReference.cache
